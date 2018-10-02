@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -17,13 +17,14 @@ namespace SupplierMVC.Controllers
         private readonly string ConnectionString;
         private DAO Dao;
 
+
         public SupplierController()
         {
             this.ConnectionString = ConfigurationManager.ConnectionStrings["dataSource"].ConnectionString;
             Dao = new DAO(ConnectionString);
         }
     
-        // GET: Supplier
+        [HttpGet]
         public ActionResult Index()
         {
             List<Supplier> supplierInfo = new List<Supplier>();
@@ -38,6 +39,37 @@ namespace SupplierMVC.Controllers
             }
 
             return View(supplierInfo);
+        }
+
+        [HttpGet]
+        public ActionResult CreateSupplier()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult CreateSupplier(Supplier form)
+        {
+            ActionResult response;
+
+            if(ModelState.IsValid)
+            {
+                try
+                {
+                    SupplierDO newSupplier = MVCMapper.PoToDo(form);
+                    Dao.CreateSupplier(newSupplier);
+                    response = RedirectToAction("Index", "Supplier");
+                }
+                catch(SqlException sqlex)
+                {
+                    response = View(form);
+                }
+            }
+            else
+            {
+                response = View();
+            }
+            return response;
         }
     }
 }
