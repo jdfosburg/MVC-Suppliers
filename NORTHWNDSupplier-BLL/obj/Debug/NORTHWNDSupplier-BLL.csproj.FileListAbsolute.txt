@@ -1,0 +1,18 @@
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\bin\Debug\NORTHWNDSupplier-BLL.dll
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\bin\Debug\NORTHWNDSupplier-BLL.pdb
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.csprojAssemblyReference.cache
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.dll
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.pdb
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\bin\Debug\NORTHWNDSupplier-BLL.dll
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\bin\Debug\NORTHWNDSupplier-BLL.pdb
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.csprojAssemblyReference.cache
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.dll
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.pdb
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\bin\Debug\NORTHWNDSupplier-BLL.dll
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\bin\Debug\NORTHWNDSupplier-BLL.pdb
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.csprojAssemblyReference.cache
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.dll
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-BLL\obj\Debug\NORTHWNDSupplier-BLL.pdb

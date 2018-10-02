@@ -1,0 +1,53 @@
+﻿@using SupplierMVC.Models
+@model IEnumerable<SupplierMVC.Models.Supplier>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<title>Northwind</title>
+<head>
+</head>
+<body>
+    <header>Suppliers for Northwind</header>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Company Name</th>
+                <th>Contact Name</th>
+                <th>Contact Title</th>
+                <th>Address</th>
+                <th>City</th>
+                <th>Region</th>
+                <th>Postal Code</th>
+                <th>Country</th>
+                <th>Phone</th>
+                <th>Fax</th>
+                <th>Home Page</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (Supplier supplier in Model)
+            {
+                <tr>
+                    <td>@supplier.CompanyName;</td>
+                    <td>@supplier.ContactTitle;</td>
+                    <td>@supplier.Address;</td>
+                    <td>@supplier.City;</td>
+                    <td>@supplier.Country;</td>
+                    <td>@supplier.Region;</td>
+                    <td>@supplier.Phone;</td>
+                    <td>@supplier.PostalCode;</td>
+                    <td>@supplier.Fax;</td>
+                    <td>@supplier.HomePage;</td>
+                </tr>
+            }
+
+        </tbody>
+        <tfoot></tfoot>
+    </table>
+</body>
+
+

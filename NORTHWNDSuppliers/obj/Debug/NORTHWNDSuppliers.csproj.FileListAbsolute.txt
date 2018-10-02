@@ -1,0 +1,28 @@
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSuppliers.exe.config
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSuppliers.exe
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSuppliers.pdb
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSupplier-BLL.dll
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSupplier-DAL.dll
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSupplier-BLL.pdb
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSupplier-DAL.pdb
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.csprojAssemblyReference.cache
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.csproj.CopyComplete
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.exe
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.pdb
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.csprojAssemblyReference.cache
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.exe
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.pdb
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSuppliers.exe.config
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSuppliers.exe
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSuppliers.pdb
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSupplier-BLL.dll
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSupplier-DAL.dll
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSupplier-BLL.pdb
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\bin\Debug\NORTHWNDSupplier-DAL.pdb
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.csprojAssemblyReference.cache
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.csproj.CopyComplete
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.exe
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSuppliers\obj\Debug\NORTHWNDSuppliers.pdb

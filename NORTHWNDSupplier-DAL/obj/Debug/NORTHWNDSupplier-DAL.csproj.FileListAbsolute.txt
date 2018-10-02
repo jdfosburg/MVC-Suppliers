@@ -1,0 +1,18 @@
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\bin\Debug\NORTHWNDSupplier-DAL.dll
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\bin\Debug\NORTHWNDSupplier-DAL.pdb
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.csprojAssemblyReference.cache
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.dll
+C:\Users\Jeremy Fosburg\source\repos\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.pdb
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\bin\Debug\NORTHWNDSupplier-DAL.dll
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\bin\Debug\NORTHWNDSupplier-DAL.pdb
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.csprojAssemblyReference.cache
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.dll
+C:\Users\Alex\Downloads\NORTHWNDSuppliersUpdated\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.pdb
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\bin\Debug\NORTHWNDSupplier-DAL.dll
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\bin\Debug\NORTHWNDSupplier-DAL.pdb
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.csprojAssemblyReference.cache
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.dll
+C:\Users\Jeremy Fosburg\Downloads\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliersUpdatedWithLogs\NORTHWNDSuppliers\NORTHWNDSupplier-DAL\obj\Debug\NORTHWNDSupplier-DAL.pdb
